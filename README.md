@@ -77,4 +77,4 @@ Esta bilbioteca é licenciada sob a [GNU General Public License v3.0](./LICENSE)
 
 ## Contribuição
 
-Contribuidores são bemvindos! Por favor, submeta problemas ou _pull requests_ via GitHub.
+Contribuidores são benvindos! Por favor, submeta problemas ou _pull requests_ via GitHub.
